@@ -1,0 +1,19 @@
+Pet
+>size
+>print 
+>age
+()eat
+()drink
+
+
+Cat : Pet
+>whiskers
+()meow
+
+
+Dog : Pet
+>breed
+()bark
+
+Hamster : Pet
+()run_in_wheel
