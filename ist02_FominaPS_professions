@@ -3,7 +3,7 @@ Profession
 >sector
 >uniform
 ()activity
-()rest
+()skills
 
 Doctor: Profession
 >specialization
