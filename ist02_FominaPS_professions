@@ -1,0 +1,18 @@
+Profession
+>palce of work
+>sector
+>uniform
+()activity
+()rest
+
+Doctor: Profession
+>specialization
+>number of patients
+()prescribe a prescription
+()heal
+
+Polician: Profession
+>equipment
+>post
+()catching criminals
+()write a report
