@@ -1,0 +1,19 @@
+Device
+>model
+>brand
+>weight
+()turn_on
+()turn_off
+
+Camera: Device
+>lens
+>fps
+()film
+()zoom
+
+Phone: Device
+>storage
+>apps
+()call
+()open_tiktok
+()play_BlockBlast
