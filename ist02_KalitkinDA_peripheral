@@ -1,0 +1,23 @@
+peripheral
+>name
+>connection_type
+>brand
+>power_source
+()connect
+()disconnect
+()update_driver
+
+mouse: peripheral
+>dpi_level
+>sensor_type
+>buttons_count
+()left_click
+()right_click
+()change_sensitivity
+
+webcam: peripheral
+>resolution
+>frame_rate
+()start_stream
+()take_snapshot
+()autofocus
