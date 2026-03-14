@@ -17,3 +17,8 @@ Polician: Profession
 ()catching criminals
 ()write a report
 
+Techer: Profession
+>subject
+>experience
+()check answers
+()educate
