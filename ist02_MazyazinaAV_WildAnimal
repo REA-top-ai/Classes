@@ -1,0 +1,28 @@
+WildAnimal
+>species
+>habitat
+>lifespan
+>diet_type
+()communicate
+()skill
+
+Elephant: WildAnimal
+>tusk_length
+>ear_size
+>trunk_length
+()trumpet
+()spray_water
+
+Lion: WildAnimal
+>mane_size
+>pride_size
+>territory_size
+()roar
+()hunt_in_group
+
+Wolf: WildAnimal
+>pack_size
+>howl_frequency
+>fur_thickness
+()howl
+()track_prey
