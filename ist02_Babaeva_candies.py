@@ -1,0 +1,21 @@
+candies
+>country
+>brand
+>size
+()eat
+()open
+()drop
+()buy
+
+chocolate: candies
+>the amount of cocoa
+>texture
+()melt
+()chop
+
+
+lollipops: candies
+>taste
+>color
+()nibble
+()crash
