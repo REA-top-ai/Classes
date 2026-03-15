@@ -16,13 +16,9 @@ Rose: Flower
 
 Pion: Flower
 > size of the brick
-Flower:
-> variety
-> color
-> size
-() water
-() cut
-() buy
+> petals color
+() bloom
+() crumble
 
 
 Ranunkulyus: Flower
