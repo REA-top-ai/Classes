@@ -1,0 +1,25 @@
+# pets classes
+
+pets 
+> weight
+> size
+> color
+> food type
+() move
+() eat
+
+dog: pets
+> food type: dry dogs food
+> traning tipe
+() bark
+
+
+cat: pets
+> food type: meat
+> scratching post
+() meows
+
+rat: pets
+> food type: seed
+> cell
+() squeak
