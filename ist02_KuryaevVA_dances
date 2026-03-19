@@ -1,0 +1,20 @@
+Dance
+>type
+>speed
+>difficulty
+()perform
+()create
+
+Contemporary: Dance
+>smothness
+>energy_consumption
+()rehearse
+()change
+()perform
+
+Folk_dance: Dance
+>number_of_elements
+>distribution_of_people
+()perform
+()change
+()create
