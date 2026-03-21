@@ -1,0 +1,22 @@
+hero 
+> Name
+> Attribute
+()move
+()attack
+()cast_spell
+
+pudge: hero
+> hook_level
+> rot_level
+()hook
+()eat_hero
+()rot
+
+invoker: hero
+> quas_level
+> wex_level
+> exort_level
+()invoke_level
+()sun_strike
+()tornado
+
