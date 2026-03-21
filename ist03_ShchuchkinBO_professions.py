@@ -2,6 +2,8 @@ profession
 >name
 >salary
 >worktime
+()work
+()get-paid
 
 teacher:profession
 >subject
