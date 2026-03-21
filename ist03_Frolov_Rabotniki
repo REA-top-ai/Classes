@@ -1,0 +1,13 @@
+Employee
+> name
+> id
+() work
+() getSalary
+
+Manager: Employee
+> teamSize
+() conductMeeting
+
+Developer: Employee
+> programmingLanguage
+() debug
