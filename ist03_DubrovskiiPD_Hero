@@ -1,0 +1,18 @@
+Hero
+>name
+>health
+>level
+()move
+()getInfo
+
+Warrior : Hero
+>armor
+>stamina
+()block
+()attack
+
+Mage : Hero
+>mana
+>spellPower
+()castSpell
+()teleport
