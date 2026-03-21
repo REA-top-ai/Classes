@@ -1,0 +1,14 @@
+Aircraft
+>altitude
+>model
+>print
+()fly
+()drive
+
+Boeing: Aircraft
+>engine
+()move
+
+Airbus: Aircraft
+>capacity
+()landing 
