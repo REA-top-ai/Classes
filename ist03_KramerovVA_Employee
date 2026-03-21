@@ -1,0 +1,18 @@
+Employee
+>name
+>salary
+>experience
+()work
+()get_info
+
+Manager : Employee
+>team_size
+>department
+()hold_meeting
+()evaluate_employee
+
+Developer : Employee
+>programming_language
+>level
+()write_code
+()fix_bug
